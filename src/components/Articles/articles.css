@@ -1,0 +1,14 @@
+.container {
+  width: 500px;
+  margin: 100px auto;
+  padding: 1rem;
+  border: 1px solid #ddd;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+.article {
+  border-bottom: 1px solid #ddd;
+}
